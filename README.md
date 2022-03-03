@@ -1,21 +1,10 @@
 <img align="right" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="350"/>
 
-# **Hello Word! Eu sou Luiz Gustavo** 🚀
-> 💻 Conheça um pouco sobre minha história no link abaixo:
+# **Luiz Gustavo** 🚀
+> 💻 Acredito que trabalhar com tecnologia é um compromisso continuo de estudo, conheça um pouco sobre minha história no link abaixo:
 
 - [**Portfólio**](https://luizgustavo77.github.io/luizgustavo77/index.html)
 
-<!--
-**luizgustavo77/luizgustavo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Trabalho atualmente com foco no .NET
+- ⚡ Gosto muito de tomar um café, ouvir uma musica e desenvolver sistemas
+- 🌱 Atualmente estudo sobre novas tecnologias como o Blazor
