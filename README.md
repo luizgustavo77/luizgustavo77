@@ -3,7 +3,7 @@
 # **Hello Word! Eu sou Luiz Gustavo** 🚀
 > 💻 Conheça um pouco sobre minha história no link abaixo:
 
-- [**Portfólio**](https://luizgustavo77.github.io/CV/index.html)
+- [**Portfólio**](https://luizgustavo77.github.io/luizgustavo77/index.html)
 
 <!--
 **luizgustavo77/luizgustavo77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
