@@ -1,4 +1,4 @@
-<img align="right" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/luizgustavo77/luizgustavo77/master/assets/img/HomeOffice.gif" width="350"/>
 
 # 🚀 **TI Analyst** 
 > 💻 Conheça um pouco sobre minha carreira no meu [**portfólio**](https://luizgustavo77.github.io/luizgustavo77/index.html)
